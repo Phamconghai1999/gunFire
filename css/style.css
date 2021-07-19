@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: rgb(160, 140, 140) url(../image/bg.jpg);
+    background-repeat: no-repeat;
+}
